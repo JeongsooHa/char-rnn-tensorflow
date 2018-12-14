@@ -1,6 +1,6 @@
 # char-rnn-tensorflow
-원본 repository https://github.com/solaris33/char-rnn-tensorflow
-코드를 간결하게 정리하고 한글주석을 추가한 Char-RNN
+- 원본 repository https://github.com/solaris33/char-rnn-tensorflow
+- 코드를 간결하게 정리하고 한글주석을 추가한 Char-RNN
 
 ## 실행법(Howo to run)
 ```
@@ -82,5 +82,5 @@ static inline bufferpoid(tp, char *timer, struct rq *rq)
 
 
 ## Reference(Original Code)
-[https://github.com/sherjilozair/char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
-[https://github.com/solaris33/char-rnn-tensorflow](https://github.com/solaris33/char-rnn-tensorflow)
+- [https://github.com/sherjilozair/char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
+- [https://github.com/solaris33/char-rnn-tensorflow](https://github.com/solaris33/char-rnn-tensorflow)
